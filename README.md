@@ -1,4 +1,4 @@
-# WhatsappChatAnalyser
+# Whatsapp Chat Analyser
 
 • This tool provides a comprehensive overview of individual user( or
 entire group) activity inside a group, such as the most active users,
